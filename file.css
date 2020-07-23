@@ -1,0 +1,46 @@
+/* Tag selectors */
+        body {
+            background-color: linen;
+          }
+          
+          h1 {
+            color: maroon;
+            font-size: 100px;
+          } 
+          p    {
+            color: red;
+            }
+  
+            h2   {
+              color:aqua;
+              }
+
+            img{
+              background-color: turquoise;
+            }
+       
+               /*Class selectors  */
+
+              .Fazla{
+                background-color: rgb(31, 17, 153);
+              }
+              .Ryan{
+                background-color: whitesmoke;
+                
+              }
+
+             .circle{
+               border-radius: 100%;
+              }
+              /* ID selectors */
+              #Ryan{
+                background-color: tomato;
+            
+              }
+              /* Pseudo Selectors */
+              img:hover{
+                background-color: teal;
+              }
+            
+
+
